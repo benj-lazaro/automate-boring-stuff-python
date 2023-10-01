@@ -1,0 +1,9 @@
+Comments
+--------
+- It is a line that starts with # character
+    - Python interpreter ignores comments
+
+- It is used to
+    - Write notes to yourself
+    - Reminders about what the piece of code is truing to do
+    - Inform what the entire program does

@@ -1,0 +1,25 @@
+Quiz #02
+--------
+1. Which window in IDLE has the >>> prompt?
+- The interactive shell window (used for experimenting with single lines of code)
+
+2. 2 + 2 is what kind of Python instruction?
+- An expression
+
+3. The value 42 has what data type?
+- An integer (or "int")
+
+4. The value '42' has what data type?
+- A string
+
+5. The value 42.0 has what data type?
+- A floating point number (or "float")
+
+6. Which of the following statements is an example of string concatenation
+- "Hello" + " world!"
+
+7. What does the last instruction, display in the interactive shell?
+>>> spam = 2
+>>> spam = "Hello"
+>>> spam * 3
+- Displays "HelloHelloHello"

@@ -1,0 +1,13 @@
+input() Function
+----------------
+- A Python built-in function that reads a line from input
+    - Evaluates the value provided by the user into a string
+    - Returns the string
+
+- Reference (https://docs.python.org/3/library/functions.html?highlight=print#input)
+
+
+Syntax
+------
+input()
+input(prompt)

@@ -1,0 +1,11 @@
+Data Types
+----------
+- All values has a data type
+    - It is a category of values
+    - Every value belongs to exactly 1 data type
+
+- Data Types
+    - Integers (int)            = whole numbers
+    - Floating Point (float)    = numbers with a decimal point
+    - Boolean (bool)            = True or False
+    - String (str)              = sequence of characters enclosed w/in a pair of single or double quotes

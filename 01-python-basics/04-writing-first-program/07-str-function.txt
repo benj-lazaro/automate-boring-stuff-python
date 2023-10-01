@@ -1,0 +1,9 @@
+str() Function
+--------------
+- A Python built-in function that evaluates the passed argument into a string data type
+
+- Reference (https://docs.python.org/3/library/functions.html?highlight=print#func-str)
+
+Syntax
+------
+str(<argument_value>)

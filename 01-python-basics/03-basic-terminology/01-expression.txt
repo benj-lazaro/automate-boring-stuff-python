@@ -1,0 +1,14 @@
+Expression
+----------
+- The most basic programming instruction in the Python language
+
+- An expression is often composed of values (operands) + operators
+    - A value on its own also considered as an expression
+
+- An expression always evaluate (reduce down) to a single value
+
+- For mathematical expression, the order of operations (precedence) is followed
+    1. Parenthesis
+    2. Multiplication / Division
+    3. Addition / Subtraction
+    NOTE: To override the order, use parenthesis ( )

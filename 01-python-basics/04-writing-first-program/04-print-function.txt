@@ -1,0 +1,15 @@
+print() Function
+-----------------
+- A Python built-in function that prints objects to the text stream
+    - Prints the passed string value enclosed with a pair of " "
+
+- Reference (https://docs.python.org/3/library/functions.html?highlight=print#print)
+
+- A function is like mini-program within a program
+    - It contains code that performs various things
+    - It can accept a value = arguments
+
+
+Syntax
+------
+print(*objects, sep=' ', end='\n', file=None, flush=False)

@@ -1,0 +1,8 @@
+Statement
+---------
+- It another kind of instruction (besides an expression) in Python
+    - It does NOT evaluate into a single value
+
+- Remember:
+    - Expression = evaluates to a single expression
+    - Statement  = does NOT evaluate to a single expression

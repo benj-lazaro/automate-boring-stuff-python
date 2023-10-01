@@ -1,0 +1,7 @@
+Blank Lines
+------------
+- Also referred as white spaces
+    - Python interpreter ignores blank lines
+
+- It is used to format or space out the source code
+    - To make them aesthetically pleasing to read

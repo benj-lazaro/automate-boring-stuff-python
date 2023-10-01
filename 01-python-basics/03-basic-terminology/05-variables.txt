@@ -1,0 +1,10 @@
+Variables
+---------
+- It is like a box in the computer's memory
+    - Stores a single value using an assignment operator =
+
+- Normally, variables are named after the values that they contain
+
+- Using the assignment operator =
+    - A variable can be assigned with a new value
+    - The previous value is discarded

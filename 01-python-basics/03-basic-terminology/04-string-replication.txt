@@ -1,0 +1,8 @@
+String Replication
+------------------
+- Use the * operator tp replicate a stirng multiple times
+
+
+Syntax
+------
+<string> * <number_of_time>

@@ -1,0 +1,17 @@
+Getting Python Installed
+------------------------
+- Go to the Python website (https://www.python.org/downloads/)
+    - Download the latest Python 3 for your computer's operating system
+
+- Python (the software) comes with an editor called IDLE
+    - This is where you type Python (the language) code into
+
+- When stuck, consult with:
+    - Google (https://www.google.com/)
+    - Stack Overflow (https://stackoverflow.com/)
+
+    - When posting a question, keep in mind
+        - Explain what you are trying to do, NOT just what you did
+        - In the event of an error message, specify the point at which the error happens
+        - Share the error message & code via Pastebin (https://pastebin.com/)
+        - List the version of Python you're using & the OS version of your computer

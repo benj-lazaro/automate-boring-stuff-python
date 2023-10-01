@@ -1,0 +1,12 @@
+len() Function
+--------------
+- A Python built-in function that returns the length (number of items) of an object
+    - Argument value may be a sequence (list, string) or a collection (dictionary, set)
+    - It evaluates the argument to the integer value
+
+- Reference (https://docs.python.org/3/library/functions.html?highlight=print#len)
+
+
+Syntax
+------
+len(s)

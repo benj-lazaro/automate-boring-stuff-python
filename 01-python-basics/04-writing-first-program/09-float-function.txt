@@ -1,0 +1,10 @@
+float() Function
+----------------
+- A Python built-in function that evaluates the passed argument into a string float type
+
+- Reference (https://docs.python.org/3/library/functions.html?highlight=print#float)
+
+
+Syntax
+------
+float(<argument_value>)

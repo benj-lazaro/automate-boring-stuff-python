@@ -1,0 +1,6 @@
+Writing First Program
+---------------------
+- A Python program is basically a text file with a filename extension of .py
+
+- The Python interpreter reads the source code from the top then move downwards
+    - Executing each instruction it has read

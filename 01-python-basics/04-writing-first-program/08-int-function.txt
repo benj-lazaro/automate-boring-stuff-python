@@ -1,0 +1,9 @@
+int() Function
+- A Python built-in function that evaluates the passed argument into an integer data type
+
+- Reference (https://docs.python.org/3/library/functions.html?highlight=print#int)
+
+
+Syntax
+-----
+int(<argument_value>)

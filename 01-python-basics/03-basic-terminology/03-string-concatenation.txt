@@ -1,0 +1,8 @@
+String Concatenation
+--------------------
+- Use the + operator to join two or more strings together
+
+
+Syntax
+------
+<string> + <string_1> + <string_n>
