@@ -4,6 +4,7 @@ str() Function
 
 - Reference (https://docs.python.org/3/library/functions.html?highlight=print#func-str)
 
+
 Syntax
 ------
 str(<argument_value>)
