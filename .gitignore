@@ -174,3 +174,4 @@ bin/activate
 pyvenv.cfg
 .gitignore
 .gitignore
+bin/pip3.11
