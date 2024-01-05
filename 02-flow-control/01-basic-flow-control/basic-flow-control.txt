@@ -3,8 +3,8 @@ Flow Charts & Basic Flow Control Concepts
 
 Flow Chart
 ----------
-- A metaphor for how the execution can move around your program
-    - Control statements decide which Python instruction to execute under w/c condition(s)
+- It is a metaphor on how the exection can move around a program
+    - Control statements decides w/c Python instruction to execution under w/c condition(s)
 
 
 Boolean Values
