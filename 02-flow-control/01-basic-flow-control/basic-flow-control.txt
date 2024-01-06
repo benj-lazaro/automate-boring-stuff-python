@@ -9,7 +9,7 @@ Flow Chart
 
 Boolean Values
 --------------
-- Python's Boolean data type has only two values
+- Python's Boolean data type has ONLY two values
     - True
     - False
 
