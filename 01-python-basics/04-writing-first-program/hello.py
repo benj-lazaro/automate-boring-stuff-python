@@ -1,7 +1,6 @@
-# This program prints 'Hello World!'
-# Then asks for the user's name, prints a response and length of the given name
-# Then asks for the user's age
-# Computes and prints age the following year
+# Print "Hello World!"
+# Asks for the user's name then prints a response & length of the given name
+# Asks for the user's age then computes & prints the age the following year
 
 print("Hello World!")           # Display greetings
 
