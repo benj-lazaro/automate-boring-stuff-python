@@ -8,14 +8,18 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+bin/
 build/
 develop-eggs/
 dist/
 downloads/
 eggs/
 .eggs/
+inlude/
+include
 lib/
 lib64/
+lib64
 parts/
 sdist/
 var/
@@ -25,6 +29,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+pyvenv.cfg
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -106,8 +112,10 @@ ipython_config.py
 #pdm.lock
 #   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
 #   in version control.
-#   https://pdm.fming.dev/#use-with-ide
+#   https://pdm.fming.dev/latest/usage/project/#working-with-version-control
 .pdm.toml
+.pdm-python
+.pdm-build/
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
@@ -158,20 +166,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-lib64
-bin/python3.9
-bin/python3
-bin/python
-bin/pip3.9
-bin/pip3
-bin/pip
-bin/easy_install-3.9
-bin/easy_install
-bin/activate.fish
-bin/activate.csh
-bin/Activate.ps1
-bin/activate
-pyvenv.cfg
-.gitignore
-.gitignore
-bin/pip3.11
+/share/
